@@ -18,7 +18,10 @@ class CPerceptron:
 
         return self.sign(sum)
 
-
+    def Train(self,inputs, label):
+        error = label - self.Guess(inputs)
+        for i in range (len(self.weights)):
+            self.weights[i] += error * inputs[i] * 0.1
 
 
 

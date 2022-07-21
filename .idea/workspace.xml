@@ -26,7 +26,49 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="CBall" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Preceptron" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\GAMING\Desktop\New folder\TFODCourse\tfod\Scripts\python10.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CBall.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Perceptron" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Preceptron" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\GAMING\Desktop\New folder\TFODCourse\tfod\Scripts\python10.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Perceptron.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Preceptron" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,6 +114,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.Perceptron" />
+        <item itemvalue="Python.CBall" />
       </list>
     </recent_temporary>
   </component>
@@ -93,22 +137,22 @@
       <screen x="0" y="0" width="1376" height="774" />
     </state>
     <state x="143" y="42" width="1089" height="705" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1376.774@0.0.1376.774" timestamp="1658378887565" />
-    <state width="1376" height="200" key="GridCell.Tab.0.bottom" timestamp="1658381670503">
+    <state width="1376" height="195" key="GridCell.Tab.0.bottom" timestamp="1658387742356">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state width="1376" height="200" key="GridCell.Tab.0.bottom/0.0.1376.774@0.0.1376.774" timestamp="1658381670503" />
-    <state width="1376" height="200" key="GridCell.Tab.0.center" timestamp="1658381670503">
+    <state width="1376" height="195" key="GridCell.Tab.0.bottom/0.0.1376.774@0.0.1376.774" timestamp="1658387742356" />
+    <state width="1376" height="195" key="GridCell.Tab.0.center" timestamp="1658387742356">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state width="1376" height="200" key="GridCell.Tab.0.center/0.0.1376.774@0.0.1376.774" timestamp="1658381670503" />
-    <state width="1376" height="200" key="GridCell.Tab.0.left" timestamp="1658381670503">
+    <state width="1376" height="195" key="GridCell.Tab.0.center/0.0.1376.774@0.0.1376.774" timestamp="1658387742356" />
+    <state width="1376" height="195" key="GridCell.Tab.0.left" timestamp="1658387742355">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state width="1376" height="200" key="GridCell.Tab.0.left/0.0.1376.774@0.0.1376.774" timestamp="1658381670503" />
-    <state width="1376" height="200" key="GridCell.Tab.0.right" timestamp="1658381670503">
+    <state width="1376" height="195" key="GridCell.Tab.0.left/0.0.1376.774@0.0.1376.774" timestamp="1658387742355" />
+    <state width="1376" height="195" key="GridCell.Tab.0.right" timestamp="1658387742356">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
-    <state width="1376" height="200" key="GridCell.Tab.0.right/0.0.1376.774@0.0.1376.774" timestamp="1658381670503" />
+    <state width="1376" height="195" key="GridCell.Tab.0.right/0.0.1376.774@0.0.1376.774" timestamp="1658387742356" />
     <state x="380" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1658381137890">
       <screen x="0" y="0" width="1376" height="774" />
     </state>
