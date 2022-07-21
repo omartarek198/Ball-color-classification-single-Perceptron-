@@ -1,6 +1,7 @@
 # Ball-color-classification-single-Perceptron-
 In this project I implemented a single perceptron which is trained using a dataset created at runtime. 
-Which is used to classify the colors of balls created by the user (using mouse clicks).
+After the training is complete & Pygame detects a mouse click, a ball is created using the mouse co-ordinates and the label of the new ball is determined using
+the perceptron Guess function.
 
 ## Algorithms used
 FeedForward Algorithm
