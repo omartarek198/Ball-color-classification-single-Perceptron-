@@ -10,5 +10,8 @@ Pygame for visualization
 
 ## Demo
 
+![Screen Recording (7-21-2022 9-59-18 AM)](https://user-images.githubusercontent.com/87566788/180163896-2f6cf1ee-04cf-4227-9c3a-9bc83c499304.gif)
+
+ 
 
 
